@@ -1,0 +1,59 @@
+/* Header style */
+
+header {
+  background-color: #7FB069;
+  text-align: center;
+border: solid;
+  padding:auto;
+}
+
+h1{
+  font-size: 550%;
+}
+/* section titles */
+h2 {
+  text-align: center;
+  font-family: Perpetua;
+
+  
+}
+/* paragraph spacing */
+p {
+  font-family: Optima, comic-sans, arial;
+  font-size: 20px;
+  text-align:center;
+}
+
+h3 {
+  text-align: center;
+  font-size: 50px;
+}
+
+/* my photo */
+
+.bradphoto {
+  text-align: center;
+  
+}
+
+/* Footer */
+
+footer {
+    background-color: #7FB069;
+    text-align: center;
+  border: solid;
+  padding: 1%;
+}
+
+/* class of paragraph text */
+
+.textfun {
+  font-family: Optima, comic-sans, arial
+  font-size: 65px;
+  text-align: center;
+}
+
+ul {margin-left: 1050px;
+   font-size: 18px;}
+ol {margin-left: 1150px;
+   font-size: 18px;}
